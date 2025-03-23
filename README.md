@@ -86,3 +86,7 @@ Focus on the electrical market and key customers like Electricalsara Stores for 
 Optimize inventory for top-selling products to ensure demand fulfillment.
 
 Improve data quality in MySQL database by enforcing constraints on missing values.
+
+# Snapshot of powerbi desktop
+![Image](https://github.com/user-attachments/assets/d26b2420-5722-4a69-95a6-23dfb9122d6e)
+
